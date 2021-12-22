@@ -1,1 +1,0 @@
-# -Spectral-Galerkin-Method-for-4-Body-Problem-in-Two-Dimension
